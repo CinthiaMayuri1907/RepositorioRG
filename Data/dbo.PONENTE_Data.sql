@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[PONENTE] ([CODPON], [NOMPON], [APEPON], [CELPON], [DNIPON], [EMAPON], [DIRPON]) VALUES ('P0001', 'Alberto', 'Corrales Lozada', '         ', '15363798', 'alberto.corrales@yahoo.com', 'Calle Los Portales')
+INSERT INTO [dbo].[PONENTE] ([CODPON], [NOMPON], [APEPON], [CELPON], [DNIPON], [EMAPON], [DIRPON]) VALUES ('P0002', 'Juana', 'Sánchez Ortega', '974815258', '13256497', 'juana.sanchez@yahoo.com', 'Av.La Libertad')
+INSERT INTO [dbo].[PONENTE] ([CODPON], [NOMPON], [APEPON], [CELPON], [DNIPON], [EMAPON], [DIRPON]) VALUES ('P0003', 'Javier', 'Nakasone Villa', '995236147', '15953575', 'javier.nakasone@yahoo.com', 'Jr.San Martín')
+INSERT INTO [dbo].[PONENTE] ([CODPON], [NOMPON], [APEPON], [CELPON], [DNIPON], [EMAPON], [DIRPON]) VALUES ('P0004', 'Sonia', 'Huayta Medina', '         ', '12657814', 'sonia.huayta@yahoo.com', 'Av.Las Gardenias')
+INSERT INTO [dbo].[PONENTE] ([CODPON], [NOMPON], [APEPON], [CELPON], [DNIPON], [EMAPON], [DIRPON]) VALUES ('P0005', 'Fabiano', 'Carrión Ávila', '         ', '12233647', '', 'Jr.Huancayo')
